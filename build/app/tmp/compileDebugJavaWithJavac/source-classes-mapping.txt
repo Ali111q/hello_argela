@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/eos/aloarkela/aloarkela2/BuildConfig.java
+ com.eos.aloarkela.aloarkela2.BuildConfig
